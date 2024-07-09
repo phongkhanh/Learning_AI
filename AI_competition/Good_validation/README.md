@@ -11,3 +11,6 @@ trọng vào chi tiết và nhiễu bên trong data .
 ![alt text](image-3.png)
 - Probabilistic evaluation methods
 ![alt text](image-4.png)
+## Kfold
+![alt text](image-5.png)
+![alt text](image-6.png)
