@@ -9,6 +9,7 @@
 - Tiên đề
 ![alt text](image-6.png)
 - conditional probability
+![alt text](image-25.png)
 ![alt text](image-18.png)
 ![alt text](image-7.png)
 ![alt text](image-8.png)
