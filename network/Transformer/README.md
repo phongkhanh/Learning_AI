@@ -33,3 +33,9 @@
 ## Vision Transformer
 ![alt text](image-20.png)
 ![alt text](image-21.png)
+## Are transformers effective for time series forecasting
+Trong transformers bị phá hủy về mối quan hệ thời gian
+![alt text](image-22.png)
+![alt text](image-23.png)
+![alt text](image-24.png)
+https://200lab.io/blog/transformer-cong-nghe-dang-sau-chatgpt-va-bard/
